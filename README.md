@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritwik aka @LitoleNINJA
 - 👀 I’m addicted to Coding and Learning !
-- 🌱 I’m currently learning Web Development !
+- 🌱 I’m a 3* coder at CodeChef and am Currently learning Web Development !
 - 📫 You can reach me at 9432705210
 
 <!---
